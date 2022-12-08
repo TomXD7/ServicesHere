@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ServicesHere</string>
+    <string name="serviceshere">ServicesHere</string>
+    <string name="entrar">Entrar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="olvidaste_tu_contrase_a">¿Olvidaste tu contraseña?</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="registrar">Registrar</string>
+    <string name="entrar_como_invitado">Entrar como invitado</string>
+    <string name="uso_dir">Calle Ing. Jesús Adalberto Díaz Pineda y Avenida Central Final Colonia 14 de Diciembre, Sonsonate, El Salvador C.A.</string>
+</resources>
